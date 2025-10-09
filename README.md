@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React DIY App
 ## Overview
 This is a React-based application developed to illustrate key React concepts through four distinct questions as specified in the assignment PDF. The application demonstrates the use of props (Question 1), state management with a counter (Question 2), and React component lifecycle methods (Questions 3 and 4).
