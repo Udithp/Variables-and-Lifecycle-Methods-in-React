@@ -54,14 +54,4 @@ This is a React-based application developed to illustrate key React concepts thr
 Contributions are welcome. Please fork the repository and submit pull requests for any enhancements or bug fixes.
 ## License
 This project is licensed under the MIT License. For full license details, please refer to the [LICENSE](LICENSE) file included in the repository.
-```
-### Instructions
-1. Create a new file named `README.md` in the root directory of your `react-diy-app` project.
-2. Copy and paste the content above into `README.md`.
-3. Replace `<repository-url>` with your actual Git repository URL (e.g., `https://github.com/yourusername/react-diy-app.git`) if applicable, or remove that line if not using a repository.
-4. Ensure a `LICENSE` file with the MIT License text is included in the root directory (you can generate one from [choosealicense.com](https://choosealicense.com/licenses/mit/) if needed).
-5. Save the file.
-so shall copy paste to the read me file
-=======
-# Variables-and-Lifecycle-Methods-in-React
->>>>>>> 259825c9903e3760297cce1e5584106e7fb32c09
+
